@@ -18,30 +18,14 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12">
-                    
+
                 </div>
                 </div>
             </div>
             <!-- /.row -->
         </div><!-- /.container-fluid -->
 
-        <div class="row" style="margin:30px;">
-            <div class="col-lg-3 col-6">
-              <!-- small box -->
-              <div class="small-box bg-info">
-                <div class="inner">
-                  <h3>1250</h3>
-    
-                  <p>Employees</p>
-                </div>
-                <div class="icon">
-                  <i class="ion ion-bag"></i>
-                </div>
-                <a href="{{ route('users.index') }}" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
-              </div>
-            </div>
-    </div>
-    
+        
 
         
         <!-- ./col -->
